@@ -1,10 +1,10 @@
 # Sufferings and Problem Solving
 **Refrences**:
-- Guided Study
+- Guided Study  
   [Algo Monster](https://algo.monster/problems/stats)
   [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 
-- Extreme Practice in Adhoc Manner (Monthly Challenge)
+- Extreme Practice in Adhoc Manner (Monthly Challenge)  
   [LeetCode Challenge](https://leetcode.com/)
 - LeetCode Lists
   - [Blind 75 must do](https://leetcode.com/list/#)
@@ -12,11 +12,11 @@
   - [Must do easy](https://leetcode.com/list?selectedList=xim6v1k2)
   - [Must do medium](https://leetcode.com/list?selectedList=xi2eg5at)
 
-- Object Oriented Programming
+- Object Oriented Programming  
   [Grokking Object Oriented Programming Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
   [Udit Agarwal LLD Playlist](https://www.youtube.com/c/anomaly2104)
 
-- Dynamic Programming and Trees + Graph (More Practice)
+- Dynamic Programming and Trees + Graph (More Practice)  
   [Grokking Dynamic Programming Problems](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 
 **Study Approach**
