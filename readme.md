@@ -1,4 +1,24 @@
+
 # Sufferings and Problem Solving
+
+## Table of Content
+<!-- vscode-markdown-toc -->
+* 1. [Data Structures Implementation](#DataStructuresImplementation)
+* 2. [Algo Monster](#AlgoMonster)
+	* 2.1. [Topics in Algo Monster](#TopicsinAlgoMonster)
+		* 2.1.1. [Practice from Algo Monster](#PracticefromAlgoMonster)
+* 3. [Grokking the Coding Interview](#GrokkingtheCodingInterview)
+	* 3.1. [Patterns](#Patterns)
+* 4. [Grokking Dynamic Programming Patterns](#GrokkingDynamicProgrammingPatterns)
+	* 4.1. [Patterns](#Patterns-1)
+* 5. [System Design](#SystemDesign)
+* 6. [Daily Logs](#DailyLogs)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 **Refrences**:
 - Guided Study  
   [Algo Monster](https://algo.monster/problems/stats)
@@ -36,24 +56,7 @@
     - No for any tool
     - No for Design
 
-## Table of Content
-
-- [[#Table of Content|Table of Content]]
-- [[#Data Structures Implementation|Data Structures Implementation]]
-- [[#Algo Monster|Algo Monster]]
-  - [[#Topics in Algo Monster|Topics in Algo Monster]]
-    - [[#Practice from Algo Monster|Practice from Algo Monster]]
-- [[#Grokking the Coding Interview|Grokking the Coding Interview]]
-  - [[#Patterns|Patterns]]
-- [[#Grokking Dynamic Programming Patterns|Grokking Dynamic Programming Patterns]]
-  - [[#Patterns|Patterns]]
-- [[#System Design|System Design]]
-- [[#Daily Logs|Daily Logs]]
-
-
-
-
-## Data Structures Implementation
+##  1. <a name='DataStructuresImplementation'></a>Data Structures Implementation
 - [ ] Stack
 - [ ] Queue
 - [ ] Linked List
@@ -65,8 +68,8 @@
   - [ ] Tree DFS
 - [ ] Graph
 
-## Algo Monster
-### Topics in Algo Monster
+##  2. <a name='AlgoMonster'></a>Algo Monster
+###  2.1. <a name='TopicsinAlgoMonster'></a>Topics in Algo Monster
 - [ ] Binary Search
 - [ ] Depth First Search
 - [ ] Backtracking
@@ -79,15 +82,15 @@
 - [ ] Advanced Data Structure
 - [ ] Other
 
-#### Practice from Algo Monster
+####  2.1.1. <a name='PracticefromAlgoMonster'></a>Practice from Algo Monster
 - [ ] Object Oriented Design
 - [ ] Amazon Online Assessment
 - [ ] Microsoft Online Assessment
 - [ ] Google Online Assessment
 - [ ] Twitter Online Assessment
 
-## Grokking the Coding Interview
-### Patterns
+##  3. <a name='GrokkingtheCodingInterview'></a>Grokking the Coding Interview
+###  3.1. <a name='Patterns'></a>Patterns
 - [ ] Sliding Window
 - [ ] Two Pointers
 - [ ] Fast and Slow Pointers
@@ -105,19 +108,19 @@
 - [ ] 0-1 Knapsack
 - [ ] Topological Sort
 - [ ] Miscellaneous
-## Grokking Dynamic Programming Patterns
-### Patterns
+##  4. <a name='GrokkingDynamicProgrammingPatterns'></a>Grokking Dynamic Programming Patterns
+###  4.1. <a name='Patterns-1'></a>Patterns
 - [ ] Knapsack
 - [ ] Unbounded Knapsack
 - [ ] Fibonacci Numbers
 - [ ] Palindromic Subsequence
 - [ ] Longest Common Substring
 
-## System Design
+##  5. <a name='SystemDesign'></a>System Design
 **Reference** :  
 [List of Questions asked on System Design](https://leetcode.com/discuss/interview-question/1140451/Helpful-list-of-LeetCode-Posts-on-System-Design-at-Facebook-Google-Amazon-Uber-Microsoft)
 
-## Daily Logs
+##  6. <a name='DailyLogs'></a>Daily Logs
 | Day Count | Source | Problem | Level | Time | Notes | Solution |
 | --------- | ------ | ------- | ----- | ---- | ----- | -------- |
 |           |        |         |       |      |       |          |
