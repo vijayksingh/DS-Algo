@@ -1,2 +1,4 @@
-package Leetcode.Practice.Array.InPlace;public class ReplaceElementswithGreatestElement {
+package Leetcode.Practice.Array.InPlace;
+
+public class ReplaceElementswithGreatestElement {
 }
