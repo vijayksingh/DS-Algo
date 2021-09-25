@@ -1,5 +1,7 @@
 package Leetcode.Practice.LinkedList;
 
+import Implementation.LinkedList.ListNode;
+
 public class RotateList {
     static ListNode rotateRight(ListNode head, int k) {
         int length = 0;

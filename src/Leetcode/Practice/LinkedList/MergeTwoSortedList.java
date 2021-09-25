@@ -1,13 +1,6 @@
 package Leetcode.Practice.LinkedList;
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-}
 
-
+import Implementation.LinkedList.ListNode;
 
 public class MergeTwoSortedList {
     static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
@@ -37,6 +30,5 @@ public class MergeTwoSortedList {
     public static void main(String[] args) {
 
     }
-    ListNode head = new ListNode(0);
 
 }
