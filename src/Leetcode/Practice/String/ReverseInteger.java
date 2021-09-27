@@ -23,6 +23,7 @@ public class ReverseInteger {
         return x;
     }
     public static void main(String[] args) {
-        // TODO : Complete this.
+        // TODO : Complete this. Did this in JS as java string sucks balls
+
     }
 }
