@@ -1,5 +1,7 @@
 package Leetcode.Practice.LinkedList;
 
+import Implementation.LinkedList.ListNode;
+
 public class RemoveNthNode {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         int length = 0, pos = n;
